@@ -5,7 +5,7 @@ description: "A guide to getting started with integration testing in Umbraco"
 # Integration Testing Umbraco
 
 These examples are for Umbraco 10.
-They use [NUnit](https://nunit.org/) as the testing framework. Leveraging [Umbraco.Cms.Tests.Integration](https://github.com/umbraco/Umbraco-CMS/tree/v10/contrib/tests/Umbraco.Tests.Integration) providing base classes.
+They use [NUnit](https://nunit.org/) as the testing framework. Leveraging [Umbraco.Cms.Tests.Integration](https://github.com/umbraco/Umbraco-CMS/tree/contrib/tests/Umbraco.Tests.Integration) providing base classes.
 Beware that the Nuget package has an issue fixed in v10.3.1. So it is recommended to use this version.
 
 ## Getting started
